@@ -1,19 +1,22 @@
+小唐定制，#流派#
+<<<<<头
 
 CCTV1,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://118.122.2.29:9999/hls/1/index.m3u8
-CCTV1,http://36.248.137.69:60033/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CCTV2,http://218.3.138.25:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?&encrypt=
-CCTV2,http://223.112.219.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://223.151.49.74:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://219.159.147.195:9901/tsfile/live/1019_1.m3u8?key=txiptv
-CCTV2,http://118.122.2.29:9999/hls/2/index.m3u8
 CCTV2,http://119.62.36.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-
-CCTV3,http://218.3.138.25:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://119.62.36.174:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3,http://118.122.2.29:9999/hls/3/index.m3u8
-CCTV3,http://223.151.49.74:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://36.248.137.69:60033/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://219.159.147.195:9901/tsfile/live/1004_1.m3u8?key=txiptv
+CCTV4,http://119.62.36.174:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4K,http://majian.ixiaobai.net:5540/udp/239.37.0.34:5540
+CCTV5,http://119.62.36.174:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://119.62.36.174:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://171.108.239.99:8181/tsfile/live/1033_1.m3u8?key=txiptv
+CCTV8,http://223.151.49.74:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://119.62.36.174:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://223.151.49.74:59901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://223.151.49.74:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://119.62.36.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+
+CCTV13,http://fangke.blueswords.com:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+>>>>>>> 9acce57dece6142f6fec7bebf23c2e0fe83ce6b6
