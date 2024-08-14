@@ -1,4 +1,4 @@
-小唐定制，#流派#
+小唐定制,#genre#
 <<<<<头
 
 CCTV1,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
