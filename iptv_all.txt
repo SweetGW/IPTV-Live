@@ -1,27 +1,46 @@
 小唐定制,#genre#
 <<<<<<< HEAD
 
-CCTV1,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://119.62.36.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3,http://119.62.36.174:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4,http://119.62.36.174:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4K,http://majian.ixiaobai.net:5540/udp/239.37.0.34:5540
-CCTV5,http://119.62.36.174:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV6,http://119.62.36.174:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7,http://223.151.49.74:59901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://223.151.49.74:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://119.62.36.174:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV10,http://223.151.49.74:59901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://223.151.49.74:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://119.62.36.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-1,http://183.94.146.109:2222/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$不流畅
+CCTV-1,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$不流畅
 
-CCTV13,http://fangke.blueswords.com:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$稳定源
 
-CCTV14,http://119.62.36.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://60.208.104.234:352/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?
-CCTV17,http://223.151.51.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://183.66.13.82:60033/tsfile/live/0003_1.m3u8$稳定源
+
+CCTV-4,http://115.48.61.28:9901/tsfile/live/0004_1.m3u8$稳定源
+
+CCTV-5,http://222.218.159.110:8181/tsfile/live/0005_1.m3u8$稳定源
+CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8$稳定源
+
+CCTV-5+,http://222.218.159.110:8181/tsfile/live/0016_1.m3u8$稳定源
+CCTV-5+,http://110.52.244.53:9003//hls/6/index.m3u8$稳定源
+
+CCTV-6,http://219.128.121.202:59901/tsfile/live/0006_1.m3u8$稳定源
+
+CCTV-7,http://61.150.67.62:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$和谐源
+CCTV-7,http://101.19.84.8:9901/tsfile/live/0007_1.m3u8$和谐源
+CCTV-7,http://223.13.1.109:9901/tsfile/live/1021_1.m3u8$和谐源
+
+CCTV-8,http://182.92.109.190:1668/72/72.php?id=cctv8$稳定源
+
+CCTV-9,http://113.15.185.171:8181/tsfile/live/0009_1.m3u8$稳定源
+
+CCTV-10,http://122.139.141.107:9901/tsfile/live/0010_1.m3u8$稳定源
+
+CCTV-11,http://123.7.110.43:9901/tsfile/live/0012_1.m3u8$稳定源
+
+CCTV-12,http://222.142.70.7:9901/tsfile/live/0012_1.m3u8$稳定源
+
+CCTV-13,http://163.177.122.29:9901/tsfile/live/1032_1.m3u8$稳定源
+
+CCTV-15,http://222.243.221.54:9901/tsfile/live/0015_1.m3u8$不流畅
+
+CCTV-16,http://223.166.234.19:7777/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$不流畅
+
+CCTV-17,http://220.164.192.48:50085/tsfile/live/0018_1.m3u8$稳定源
+CCTV-17,http://116.1.184.117:8181/tsfile/live/0019_1.m3u8$稳定源
+CCTV-17,http://222.129.139.91:8888/udp/239.3.1.151:8144$稳定源
 
 
 >>>>>>> 9acce57dece6142f6fec7bebf23c2e0fe83ce6b6
