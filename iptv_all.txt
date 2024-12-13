@@ -1,7 +1,7 @@
 小唐定制,#genre#
 <<<<<<< HEAD
 
-CCTV-1,http://175.16.180.250:9901/tsfile/live/0001_1.m3u8$不流畅
+CCTV-1,http://175.16.180.250:9901/tsfile/live/0001_1.m3u8$稳定源
 
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$稳定源
 
